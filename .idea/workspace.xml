@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca552bb0-6198-435f-ac0b-5fe7061364e6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/blog/admin.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/blog/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/blog/templates/blog/all_blogs.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blog/templates/blog/detail.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blog/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/manage.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/portfolio/admin.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/portfolio/apps.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/portfolio/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/portfolio/static/portfolio/css/custom.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/portfolio/static/portfolio/js/fon.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/portfolio/templates/portfolio/base.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/portfolio/templates/portfolio/my_portfolio.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/portfolio/tests.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/portfolio/views.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2QNCiuuwxB8htPnhwudotnaImKT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ibragim/Desktop/pyProjects/personal_portfolio/portfolio/static/portfolio&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ibragim\Desktop\pyProjects\personal_portfolio\portfolio\static\portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ibragim\Desktop\pyProjects\personal_portfolio\portfolio\static\portfolio" />
+      <recent name="C:\Users\Ibragim\Desktop\pyProjects\personal_portfolio\portfolio\static" />
+      <recent name="C:\Users\Ibragim\Desktop\pyProjects\personal_portfolio\portfolio\static\portfolio\js" />
+      <recent name="C:\Users\Ibragim\Desktop\pyProjects\personal_portfolio\portfolio\static\portfolio\css" />
+      <recent name="C:\Users\Ibragim\Desktop\pyProjects\personal_portfolio\media\portfolio\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="personal_portfolio" type="Python.DjangoServer" factoryName="Django server">
+      <module name="personal_portfolio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="personal_portfolio.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca552bb0-6198-435f-ac0b-5fe7061364e6" name="Changes" comment="" />
+      <created>1685184783120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685184783120</updated>
+      <workItem from="1685184785095" duration="6364000" />
+      <workItem from="1685266151813" duration="9376000" />
+      <workItem from="1685278095412" duration="3783000" />
+      <workItem from="1685365696384" duration="2736000" />
+      <workItem from="1685432257984" duration="10613000" />
+      <workItem from="1685546124584" duration="622000" />
+      <workItem from="1685615328126" duration="12038000" />
+      <workItem from="1685776532037" duration="13572000" />
+      <workItem from="1685867783898" duration="11109000" />
+      <workItem from="1685967571519" duration="9743000" />
+      <workItem from="1686033559718" duration="28432000" />
+      <workItem from="1686158920475" duration="5533000" />
+      <workItem from="1686203708553" duration="5062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,80 @@
+
+body{
+  width: 100vw;
+  height: 100vh;
+}
+#canvas {
+    position: fixed;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.navbar-nav .nav-link  {
+    color: rgba(192, 188, 188, 0.56) !important;
+
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgba(5, 5, 9, 0.99) !important;
+}
+
+body not:a.my-link {
+    font-family: 'Lato', sans-serif;
+}
+
+#blogtitle {
+    font-size: 6rem;
+}
+
+@media  (min-width: 992px)  {
+    #hometext not:a.my-link {
+        font-size: 4rem;
+    }
+    #blogdetailtitle not:a.my-link  {
+        font-size: 5rem;
+    }
+}
+
+:root {
+  --text: #2B3044;
+  --line: #BBC1E1;
+  --line-active: rgba(9, 27, 230, 0.99);
+}
+
+h3 {
+  font-size: 18px;
+  margin: 0;
+  color: var(--text);
+}
+
+ a#my-link {
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+  margin: 0 var(--spacing, 0px);
+  transition: margin 0.25s ease, stroke 0.25s ease var(--stroke-delay, 0s), stroke-dasharray 0.35s ease;
+}
+
+a#my-link svg {
+  width: 76px;
+  height: 40px;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translate(-50%, 7px) translateZ(0);
+  fill: none;
+  stroke: var(--stroke, var(--line));
+  stroke-linecap: round;
+  stroke-width: 2px;
+  stroke-dasharray: var(--offset, 69px) 278px;
+  stroke-dashoffset: 361px;
+  transition: stroke 0.25s ease var(--stroke-delay, 0s), stroke-dasharray 0.35s ease;
+}
+
+ a#my-link:hover {
+  --spacing: 6px;
+  --stroke: var(--line-active);
+  --stroke-delay: 0.1s;
+  --offset: 180px;
+}
